@@ -1,0 +1,14 @@
+ESP32 Wroom
+ESP32 CAM
+Metal Detection Module
+Inductive Proximity Sensors
+L298N Motor Driver
+Side Shaft Motors
+Servo Motors
+Li-ion Battery
+Breadboard
+Jumper Wires
+Wheels
+Battery Holders
+Belt
+BO Motors
